@@ -1,0 +1,22 @@
+#myModal .modal-header{
+    background-color: rgb(30, 230, 30) !important;
+    color: white !important;
+}
+#myModal .modal-body{
+    background-color: white !important;
+}
+#myModal .modal-footer{
+    background-color: rgb(46, 223, 46) !important;
+    color: white !important;
+}
+#myModal{
+    border-radius: 0 !important;
+    direction: rtl;
+}
+.modal-body{
+    text-align: right;
+}
+.modal-footer .btn{
+    float: right !important;
+    margin-left: 70%;
+}
